@@ -33,4 +33,4 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen3.PNG)
+![There was a screenshot here](./screen2.PNG)
